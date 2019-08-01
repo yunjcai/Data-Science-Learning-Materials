@@ -1,4 +1,4 @@
 # Data-Science-Learning-Materials
-Python
-SQL
-Tableau
+* Python
+* SQL
+* Tableau
